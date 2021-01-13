@@ -1,4 +1,4 @@
-# kaggle_titanicML
+# kaggle_titanic_ml
 MMAI assignment for AI Fundamentals Course. Entered submission in Kaggle Titanic ML Competition.
 
 
